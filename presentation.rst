@@ -227,7 +227,7 @@ Thank you!
 References and used toolset
 ---------------------------
 
-* Presentation: http(s)://computerlyrik.github.io/bwr-1-legal-english
+* Presentation: http://computerlyrik.github.io/bwr-1-legal-english
 * Source: https://github.com/computerlyrik/bwr-1-legal-english
 * Moodle - https://moodle.h-ab.de/course/view.php?id=210
 * Cambridge - International Legal English
