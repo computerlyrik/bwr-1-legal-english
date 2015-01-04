@@ -5,7 +5,6 @@
 :css: presentation.css
 
 :auto-console: false
-:skip-help: false
 :data-transition-duration: 2000
 
 .. role:: blue
